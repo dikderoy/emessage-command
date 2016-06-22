@@ -61,7 +61,7 @@ GNU-GPLv2 License. Please see [License](http://www.gnu.org/licenses/old-licenses
 GNU-LGPLv3 License for parts. Please see [Licence](http://www.gnu.org/licenses/lgpl-3.0-standalone.html) for more information.
 
 [ico-version]: https://img.shields.io/packagist/v/dikderoy/yii-pophpconvertor.svg?style=flat-square
-[ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
+[ico-license]: https://img.shields.io/packagist/l/dikderoy/yii-pophpconvertor.svg?maxAge=2592000?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/dikderoy/yii-pophpconvertor.svg?style=flat-square
 
 [link-packagist]: https://packagist.org/packages/dikderoy/yii-pophpconvertor
