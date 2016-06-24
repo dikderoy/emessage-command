@@ -109,6 +109,7 @@ return array(
 
 ###### June 21, 2016
 - Repackaged for Composer
+
 ###### June 4, 2012
 - Add check action to check the plural forms.
 - Add removeEmptyFiles action to delete the untranslated files.
@@ -116,12 +117,16 @@ return array(
 
 ###### January 4, 2012
 - Add the caseSensitive option to the duplicates action.
+
 ###### December 14, 2011
 - Patch on sorting the string by Attila N.
+
 ###### November 10, 2010
 - Third release with more options, among them : creation of the .po files in a launchpad directory.
+
 ###### May 12, 2010
 - Second release (renamed to EMessage) with 2 more commands: message and statistics
+
 ###### May 23, 2009
 - Initial release.
 
