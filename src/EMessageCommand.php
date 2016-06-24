@@ -159,6 +159,7 @@ CONFIGURATION FILE
 	PHP script which returns an array of name-value pairs.
 	Each name-value pair represents a configuration option. The following
 	options must be specified:
+	- sourcePath: string, root directory of all source files.
 	- messagePath: string, root directory containing message translations.
 	- languages: array, list of language codes that the extracted messages
 	  should be translated to. For example, array('zh_cn', 'en_au').
